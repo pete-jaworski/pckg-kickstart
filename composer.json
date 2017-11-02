@@ -1,0 +1,24 @@
+{
+    "name": "Piotr Jaworski",
+    "description": "....",
+    "license": "MIT",
+    "keywords": ["..."],
+    "authors": [
+        {
+            "name": "Piotr Jaworski",
+            "email": "piotrjaworski@hotmail.com"
+        }
+    ],
+    "require": {
+        
+    },
+    "require-dev": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "PiotrJaworski\\Package\\": "src"
+        }
+    }
+}    
+     
